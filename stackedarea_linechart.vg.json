@@ -12,7 +12,7 @@
         "offset":2
       },
       "data": {
-        "url": "Processed_Stacked_Polar_Area_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Processed_Stacked_Polar_Area_Dataset.csv",
         "format": {"type": "csv"}
       },
       "layer": [
@@ -114,7 +114,7 @@
         }
       ],
       "data": {
-        "url": "Processed_Line_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Processed_Line_Dataset.csv",
         "format": {"type": "csv"}
       },
       "encoding": {
