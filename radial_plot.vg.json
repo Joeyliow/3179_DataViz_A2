@@ -9,7 +9,7 @@
         "color":"#636363"      
       },
     "data": {
-      "url": "Processed_Stacked_Polar_Area_Dataset.csv",
+      "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Processed_Stacked_Polar_Area_Dataset.csv",
       "format": {"type": "csv"}
     },
     "params": [
