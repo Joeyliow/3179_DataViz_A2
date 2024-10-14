@@ -15,7 +15,7 @@
     "left": 50
   },
   "data": {
-    "url": "ne_110m_admin_0_countries.topojson",
+    "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/ne_110m_admin_0_countries.topojson",
     "format": {
       "type": "topojson",
       "feature": "ne_110m_admin_0_countries"
@@ -145,7 +145,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "Processed_ChoroplethMap_Dataset.csv"
+              "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Processed_ChoroplethMap_Dataset.csv"
             },
             "key": "Country/Economy",
             "fields": [
@@ -191,7 +191,7 @@
     },
     {
       "data": {
-        "url": "oceans.topojson",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/blob/main/oceans.topojson",
         "format": {
           "type": "topojson",
           "feature": "oceans"
@@ -204,7 +204,7 @@
     },
     {
       "data": {
-        "url": "WorldMapWithGraticules.topojson",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/WorldMapWithGraticules.topojson",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_graticules_30"
@@ -218,7 +218,7 @@
     },
     {
       "data": {
-        "url": "Processed_ChoroplethMap_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Processed_ChoroplethMap_Dataset.csv",
         "format": { "type": "csv" }
       },
       "transform": [
