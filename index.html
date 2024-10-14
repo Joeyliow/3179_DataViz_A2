@@ -397,12 +397,11 @@
   </div>
 
   <script type="text/javascript">
-    var specVis1 = "choropleth_map.vg.json";
-    var specVis2 = "bubbleplot.vg.json";
-    var specVis3 = "small_multiples_heatmap.vg.json";
-    var specVis4 = "stackedarea_linechart.vg.json";
-    var specVis5 = "radial_plot.vg.json";
-    var specVis6 = "radar_chart.vg.json";
+    var specVis1 = "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/choropleth_map.vg.json";
+    var specVis2 = "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/bubbleplot.vg.json";
+    var specVis3 = "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/small_multiples_heatmap.vg.json";
+    var specVis4 = "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/stackedarea_linechart.vg.json";
+    var specVis5 = "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/radial_plot.vg.json";
 
     vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance
@@ -424,9 +423,6 @@
       // Access the Vega view instance
     }).catch(console.error);
 
-    vegaEmbed('#vis6', specVis6, { "actions": false }).then(function (result) {
-      // Access the Vega view instance
-    }).catch(console.error);
   </script>
 </body>
 
