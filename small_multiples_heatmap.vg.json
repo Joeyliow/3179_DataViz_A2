@@ -9,7 +9,7 @@
         "color":"#636363"
       },
       "data": {
-        "url": "Heatmap_Co2_Emission_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Heatmap_Co2_Emission_Dataset.csv",
         "format": {"type": "csv"}
       },
       "transform": [
@@ -63,7 +63,7 @@
         "color":"#636363"
       },
       "data": {
-        "url": "Heatmap_Average_Temperature_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Heatmap_Average_Temperature_Dataset.csv",
         "format": {"type": "csv"}
       },
       "transform": [
@@ -117,7 +117,7 @@
         "color":"#636363"
       },
       "data": {
-        "url": "Heatmap_Precipitation_Evapotranspiration_Dataset.csv",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/Heatmap_Precipitation_Evapotranspiration_Dataset.csv",
         "format": {"type": "csv"}
       },
       "transform": [
