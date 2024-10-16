@@ -60,7 +60,7 @@
             "type": "multi",
             "fields": ["Continent"],
             "bind": "legend",
-            "toggle":"true
+            "toggle":"true"
           },
           "grid": {
             "type": "interval",
