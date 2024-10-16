@@ -59,7 +59,8 @@
           "continent_highlight": {
             "type": "multi",
             "fields": ["Continent"],
-            "bind": "legend"
+            "bind": "legend",
+            "toggle":"true
           },
           "grid": {
             "type": "interval",
