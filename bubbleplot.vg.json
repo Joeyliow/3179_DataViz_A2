@@ -27,8 +27,7 @@
           "min": 0,
           "max": 6000000,
           "step": 100000,
-          "name": "Minimum Land Size Area (per Square Kilometers): ",
-          "style": {"margin-left":"50px"}
+          "name": "Minimum Land Size Area (per Square Kilometers): "
         }
       }
     ],
@@ -60,7 +59,7 @@
             "type": "multi",
             "fields": ["Continent"],
             "bind": "legend",
-            "toggle":"true"
+            "toggle": "true"
           },
           "grid": {
             "type": "interval",
