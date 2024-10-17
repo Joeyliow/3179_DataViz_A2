@@ -191,7 +191,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/blob/main/oceans.topojson",
+        "url": "https://raw.githubusercontent.com/Joeyliow/3179_DataViz_A2/main/oceans.topojson",
         "format": {
           "type": "topojson",
           "feature": "oceans"
